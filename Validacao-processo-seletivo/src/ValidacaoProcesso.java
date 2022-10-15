@@ -4,6 +4,7 @@ public class ValidacaoProcesso {
     public static void main(String[] args) throws Exception {
         selecaoCandidados();
     }
+	
 
 	static void selecaoCandidados() {
 		// Array com a lista de candidatos
